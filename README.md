@@ -60,7 +60,7 @@ python ParamXplore.py --help
 
 ## 📷 **Screenshot**
 
-![Screenshot Placeholder](Terminal.gif)
+![Screenshot Placeholder](terminal.gif)
 
 ---
 
