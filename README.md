@@ -6,7 +6,7 @@
 
 **ParamXplore** is an advanced parameter discovery and vulnerability testing tool inspired by **ParamSpider**. It mines URLs from archived web data, identifies query parameters, and tests for various vulnerabilities, including SSRF, SQL Injection, LFI, SSTI, XSS, and more.
 
-![Logo Placeholder](paramxplore_logo.png)
+![Logo Placeholder](logo.png)
 
 ---
 
